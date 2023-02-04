@@ -11,3 +11,6 @@ Ejemplos: plantilla de archivo readme
 Los archivos readme, a menudo creados como readme.txt o readme.md, suelen contener información 
 importante sobre el sistema, proyecto o software al que se refieren. Para que los usuarios puedan 
 encontrar fácilmente el archivo de un vistazo, se recomienda ubicarlo en el nivel superior del directorio.
+
+
+hola mundo estoy aprendiendo git y github
