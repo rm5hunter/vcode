@@ -16,10 +16,3 @@ encontrar fácilmente el archivo de un vistazo, se recomienda ubicarlo en el niv
 hola mundo estoy aprendiendo git y github
 
 
-
-tambien e aprendido mysql 
-php html
-python 
-javascript 
-react 
-y ahora git t github
