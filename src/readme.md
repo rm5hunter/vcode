@@ -16,3 +16,4 @@ encontrar fácilmente el archivo de un vistazo, se recomienda ubicarlo en el niv
 hola mundo estoy aprendiendo git y github
 
 
+hola mundo esto es un scrip github
